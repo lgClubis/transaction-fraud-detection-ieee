@@ -1,6 +1,9 @@
 # transaction-fraud-detection-ieee
 # Transaction Fraud Detection  
 ### A Time-Aware, Business-Oriented Machine Learning Approach
+See [Reflection.md](REFLECTION.md) for methodological insights and limitations.
+
+
 
 ## 1. Business Problem
 
